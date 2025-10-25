@@ -90,6 +90,7 @@ Install all dependencies using:
 npm install
 ```
 
+![](https://komarev.com/ghpvc/?username=Ishan007-bot)
 
 
 ## Screenshots
