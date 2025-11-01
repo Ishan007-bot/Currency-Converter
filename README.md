@@ -26,7 +26,7 @@ A **React Native** application to seamlessly convert currencies. The app uses **
   A visually appealing tech-inspired gradient background for enhanced user experience.
 
 - **Animations**:
-  Smooth fade-in animations for the results using `react-native-reanimated`.
+  Proper smooth fade-in animations for the results using `react-native-reanimated`.
 
 ---
 
