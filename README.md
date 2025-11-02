@@ -33,7 +33,7 @@ A **React Native** application to seamlessly convert currencies. The app uses **
 ## Installation
 
 ### Prerequisites
-- Node.js (>= 14.x recommended)
+- Node.js   (>= 14.x recommended)
 - React Native environment set up ([Guide](https://reactnative.dev/docs/environment-setup))
 - Exchange Rate API Key (if the API requires one for extended usage)
 
