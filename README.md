@@ -4,7 +4,7 @@
 
 # Currency Converter App
 
-A **React Native** application to seamlessly convert currencies. The app uses **Exchange Rate API** to fetch live currency rates, provides a modern and intuitive user interface, and includes features like swapping currencies, saving preferences,  and a techy visual theme.
+A **React Native** application to seamlessly convert currencies. The app uses **Exchange Rate API** to fetch live currency rates, provides a modern and intuitive user interface, and includes features like swapping currencies, saving preferences, and a techy visual theme.
 
 ---
 
